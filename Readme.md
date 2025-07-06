@@ -1,14 +1,10 @@
-[![Java CI with Gradle](https://github.com/lewkAa/AQA-Diploma/actions/workflows/gradle.yml/badge.svg)](https://github.com/lewkAa/AQA-Diploma/actions/workflows/gradle.yml)
+
 # Тестирование веб-формы покупки тура
 
 
 
 [План тестирования](Docs/Plan.md)
 
-## Начало работы
-
-Склонируте  https://github.com/lewkAa/AQA-Diploma в свой репозиторий, <br/>
-затем сделайте git pull, для того чтобы скачать проект на свою машину.
 
 ### Prerequisites
 Установите следующие приложения:
