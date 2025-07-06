@@ -11,8 +11,8 @@
 
 ## 3. Баги
 - [Issue #1](https://github.com/Rasl-star/Diplom/issues/1 )
-- [Issue #1](https://github.com/Rasl-star/Diplom/issues/2 )
-- [Issue #1](https://github.com/Rasl-star/Diplom/issues/3 )
+- [Issue #2](https://github.com/Rasl-star/Diplom/issues/2 )
+- [Issue #3](https://github.com/Rasl-star/Diplom/issues/3 )
 
 ### Существенные проблемы проблемы
 - **Валидация поля "Владелец"**  
